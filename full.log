@@ -1,0 +1,16 @@
+2022-09-05 17:43:48 ERROR Xfile:45 - app.conf (The system cannot find the file specified)
+  2022-09-06 13:31:50 ERROR MyDatabase:30 - Can not issue executeUpdate() or executeLargeUpdate() with statements that produce result sets
+  2022-09-06 13:33:46 ERROR MyDatabase:30 - Can not issue executeUpdate() or executeLargeUpdate() with statements that produce result sets
+  2022-09-06 13:35:28 ERROR MyDatabase:30 - Can not issue executeUpdate() or executeLargeUpdate() with statements that produce result sets
+  2022-09-06 13:42:15 ERROR MyDatabase:30 - Can not issue executeUpdate() or executeLargeUpdate() with statements that produce result sets
+  2022-09-06 13:42:15 INFO  threadOne:37 - Thanh cong
+  2022-09-06 13:47:05 ERROR MyDatabase:32 - Operation not allowed after ResultSet closed
+  2022-09-06 13:47:05 ERROR ClassWebServiceImpl:50 - Duplicate entry 'Pham' for key 'class.name'
+  2022-09-06 13:50:50 INFO  threadOne:37 - Thanh cong
+  2022-09-12 13:33:32 ERROR Xfile:45 - D:\BE_java\Bai10\src\app.conf (The system cannot find the path specified)
+  2022-09-12 13:36:54 ERROR Xfile:45 - D:\BE_java\Bai10\src\app.conf (The system cannot find the path specified)
+  2022-09-12 13:40:26 ERROR Xfile:45 - D:\BE_java\Bai10\src\app.conf (The system cannot find the path specified)
+  2022-09-12 13:41:57 INFO  threadOne:37 - Thanh cong
+  2022-09-13 14:44:35 INFO  threadOne:35 - Thanh cong
+  2022-09-13 14:45:38 INFO  threadOne:35 - Thanh cong
+  
